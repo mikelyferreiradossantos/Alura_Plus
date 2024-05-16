@@ -86,31 +86,3 @@ body{
     color: var(--cinza-secundario);
 }
 
-.secundario__botao{
-    display: inline-block;
-    margin-top: 1em;
-}
-.container__descricao{
-    padding: 2em;
-}
-
-.dispositivos__lista{
-    display: flex;
-    justify-content: center;
-    list-style-type: none;
-}
-
-.dispositivos{
-    text-align: center;
-}
-.lista__item{
-    font-size: 32px;
-    color: var(--branca-principal);
-
-}
- .dispositivos__favoritos{
-    font-size: 48px;
-    color: var(--branca-principal);
- }
-
- 
